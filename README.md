@@ -1,3 +1,11 @@
+## Current issue
+
+The following error occurs with any request after the first.
+
+![](/error-2nd-load.png)
+
+## Original repo
+
 Minimal example showing how [shadow-cljs](https://github.com/thheller/shadow-cljs) could be used together with [Remix](https://remix.run/) to create SSR website in CLJS.
 
 Inspired by https://github.com/thheller/next-cljs.
